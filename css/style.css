@@ -1,0 +1,17 @@
+.header{
+    width: 100%;
+    min-height: 700px;
+    background:url("../images/ActiveBox.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.banner-content{
+    margin-top: 150px;
+}
+.bg-perple{background-color: #53354a;}
+
+.fs-13{font-size: 13px;}
+
+.bg-light-blue{background-color: #3a3e64;}
+.text-mix{color: #9d9fb2;}
+.bg-dark-blue{background-color: #313454;}
